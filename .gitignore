@@ -8,3 +8,9 @@
 /usercache.json
 /usernamecache.json
 /prestige
+/ops.json
+/whitelist.json
+/world
+/.mixin.out
+banned-ips.json
+banned-players.json
