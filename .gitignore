@@ -1,0 +1,10 @@
+/backups
+/crash-reports
+/journeymap
+/logs
+/saves
+/screenshots
+/*.log
+/usercache.json
+/usernamecache.json
+/prestige
