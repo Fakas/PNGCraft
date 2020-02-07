@@ -2,5 +2,5 @@
 
 cd "$(dirname "$0")"
 
-java -jar forge.jar
+java -jar forge_server.jar nogui
 
